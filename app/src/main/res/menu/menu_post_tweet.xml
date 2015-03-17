@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.codepath.apps.simpletweeter.activities.PostTweetActivity">
+    <item android:id="@+id/action_characters_left" android:title="140" app:showAsAction="always"/>
+    <item android:id="@+id/action_post_tweet"
+        android:title="@string/action_tweet"
+        app:showAsAction="always"/>
+</menu>

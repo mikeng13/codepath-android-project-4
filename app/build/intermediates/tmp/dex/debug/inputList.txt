@@ -1,0 +1,12 @@
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/classes/debug
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-767f35585bc9d8de854f3618b5d49494d719e578.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/codepath-utils-e357abd4c078a4ea4316139b2b12b599e7fec9a0.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/classes-e475998c60ad57c240b6e4a5ed3aff428bbca88e.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-20640603f6f9383b2536a3a3217384c59b204f60.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-a678ae81c4f14148b900aa07f6b94b7c132ae634.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-3d400890e0a2fb6d590bf696cea80913b52cf52b.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-57de45dbcd3302bb4c21f3d35e8969b8027f253b.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-a700a097664e81d73b908c1ba77f1859d175e1a3.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-898fe7807442f78d97e5fc627ffeec66310ae69d.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/classes-94383033005b0cdf2da3fc048af9a603b066f9ff.jar
+/Users/mng/Documents/Dev/android/CodePath/project_3/app/build/intermediates/pre-dexed/debug/classes-c2acb5581f4f842462016b580055bc916e2f6f0c.jar
